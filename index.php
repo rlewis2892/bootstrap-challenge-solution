@@ -121,8 +121,10 @@
 			</div>
 		</section>
 
-		<footer>
-
+		<footer class="bg-dark text-light text-center">
+			<div class="container">
+				<small>Either love me or leave me alone.</small>
+			</div>
 		</footer>
 
 	</body>
